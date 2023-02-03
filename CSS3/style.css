@@ -1,0 +1,12 @@
+h1 {
+   background-color: darkcyan;
+    color: gold;
+    font-family: calc();
+    font-size: 20px;
+}
+p {
+   background-color: greenyellow;
+   color: inherit;
+   font-family: cursive;
+   font-size: 16px;
+}
