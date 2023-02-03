@@ -1,12 +1,19 @@
-h1 {
-   background-color: darkcyan;
-    color: gold;
-    font-family: calc();
-    font-size: 20px;
+.yellow{
+   color: red;
 }
-p {
-   background-color: greenyellow;
-   color: inherit;
-   font-family: cursive;
-   font-size: 16px;
+.intro{
+    color: red;
+}
+.nav{
+    display: flex;
+}
+.nav>li{
+    margin: 6px;
+    list-style-type: none;
+    border: 1px solid purple;
+    padding: 4px;
+    background-color:rgb(255, 252, 59);
+    border-radius: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
